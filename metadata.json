@@ -1,0 +1,7 @@
+{
+  "name": "M.M SPORTS Management System",
+  "description": "A comprehensive production, attendance, and salary management system for garment manufacturing efficiency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
