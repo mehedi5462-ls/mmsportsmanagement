@@ -1,4 +1,3 @@
-
 {
   "name": "mmsports-management-system",
   "private": true,
@@ -23,7 +22,8 @@
     "@types/react-dom": "^19.0.0",
     "@vitejs/plugin-react": "^4.2.1",
     "gh-pages": "^6.1.1",
-    "typescript": "^5.2.2",
+    "terser": "^5.46.0",
+    "typescript": "^5.9.3",
     "vite": "^5.1.0"
   }
 }
