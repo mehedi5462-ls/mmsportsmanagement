@@ -9,6 +9,12 @@ export default defineConfig({
     assetsDir: 'assets',
     sourcemap: false,
     minify: 'terser',
+    rollupOptions: {
+      input: {
+        main: './index.html',
+        nested: './404.html'
+      }
+    }
   },
   server: {
     port: 3000,
